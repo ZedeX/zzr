@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Hello my girl!
 
-You can use the [editor on GitHub](https://github.com/ZedeX/zzr/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You have no idea how exciting I am when you were born.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My life had changed since then.
 
-### Markdown
+The moment when you mom called me that she was labored in her tiny weak voice after 9 hours in the labor room, I was calm. But later when I saw your face, I laughed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"She got so many born hair!" All nurses and midwives say this when they saw you.
 
-```markdown
-Syntax highlighted code block
+Your eyes opened just several hours later. Even they just a little chink, but they are much more eariler than other babies who would open their eyes several days after born.
 
-# Header 1
-## Header 2
-### Header 3
+Your cry sound small, not like the baby boy next room. Your cry is weak. And I was worried about your vocalis.
 
-- Bulleted
-- List
+Your legs were agile and always gave others side kicks time to time.
 
-1. Numbered
-2. List
+Your little fingers were always grasp all things in or near your hands.
 
-**Bold** and _Italic_ and `Code` text
+You was lucky because you got milk to eat just after you born.
 
-[Link](url) and ![Image](src)
-```
+Your mom and I, and all relatives wish you a cheerful, meaningful, hopeful jouney with us.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZedeX/zzr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Good luck, my girl!

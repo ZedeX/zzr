@@ -25,4 +25,5 @@ Good luck, my girl!
    --   Dad 11.11.2016
 
 <div style="display:none;">
-   <a href="http://webscan.360.cn/index/checkwebsite/url/zhaozhiru.cn" name="66f26cff2e054687dcd6ce3daedc5e20" >360网站安全检测平台</a></div>
+   <a href="http://webscan.360.cn/index/checkwebsite/url/zhaozhiru.cn" name="66f26cff2e054687dcd6ce3daedc5e20" >.</a>
+   <a href="https://beian.miit.gov.cn">沪ICP备15008885号-11 | 沪ICP备15008885号-12 | 沪ICP备15008885号-13</a></div>
